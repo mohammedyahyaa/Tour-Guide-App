@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">"Tour Guide App"</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cafe_">Cafe_Activity</string>
+    <string name="resturant">Resturant</string>
+    <string name="cafe">Cafe</string>
+    <string name="address">address</string>
+    <string name="title_activity_museum">Museum</string>
+    <string name="phone">phone</string>
+    <string name="FEBRUARY_23_TO_26">February, 23 To 26</string>
+    <string name="JASHN_E_BAHARAAN">Jashn-e-Baharaan</string>
+    <string name="THE_CELEBRATIONS_WITH_THE_START_OF_SPRING_SEASON">The celebrations with the start of Spring season</string>
+    <string name="PAKISTAN_DAY">Pakistan Day</string>
+    <string name="REPUBLIC_DAY_AND_TO_COMMEMORATE_THE_LAHORE_RESOLUTION">Republic Day and to commemorate the Lahore Resolution</string>
+    <string name="YOUM_E_TAKBIR">Youm-e-Takbir</string>
+    <string name="CELEBRATED_IN_COMMEMORATION_OF_THE_FIRST_NUCLEAR_TEST">Celebrated in commemoration of the first Nuclear test</string>
+    <string name="DA_DA_DA_DADAD_DA">Da da da dadad da</string>
+    <string name="PAKISTAN_FLOWER_SHOW">Pakistan Flower Show</string>
+    <string name="HIJRA_ISLAMIC_NEW_YEAR">Jashn-e-Baharaan</string>
+    <string name="DAY_OF_ASHURA_MUHARRAM">DAY_OF_ASHURA_MUHARRAM</string>
+    <string name="WEDNESDAY_OCT_12_2016">WEDNESDAY_OCT_12_2016</string>
+    <string name="MILAD_UN_NABI">Milad un Nabi</string>
+    <string name="MONDAY_DEC_12_2016">Monday, Dec 12, 2016</string>
+    <string name="EID_AL_ADHA">"Eid-al-Adha"</string>
+    <string name="SATURDAY_SEP_10_2016">Saturday, Sep 10, 2016</string>
+    <string name="WAQF_AL_ARAFA_HAJJ">Waqf al Arafa - Hajj</string>
+    <string name="TUESDAY_SEP_13_2016">TUESDAY_SEP_13_2016</string>
+    <string name="MONDAY_OCT_03_2016">TUESDAY_SEP_13_2016</string>
+    <string name="EGYPTION_MUESUM">EGYPTION_MUESUM</string>
+    <string name="TARBOUSH">TARBOUSH</string>
+    <string name="GAD">GAD</string>
+    <string name="CA_RLITO">CA_RLITO</string>
+    <string name="EGYPTION_STREET">EGYPTION_STREET</string>
+    <string name="NEW_YORK_STREET">NEW_YORK_STREET</string>
+    <string name="شارع_المتوكل_مع_سعيد">شارع_المتوكل_مع_سعيد</string>
+    <string name="كارفور">كارفور</string>
+    <string name="ELTABYA">ELTABYA</string>
+    <string name="STERO">STERO</string>
+    <string name="ELGEEESH_STREET1">ELGEEESH_STREET1</string>
+    <string name="ELGEEESH_STREET">ELGEEESH_STREET1</string>
+    <string name="NEW_YORK_MUSEUM">NEW_YORK_MUSEUM</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
